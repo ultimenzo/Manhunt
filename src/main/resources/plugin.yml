@@ -1,0 +1,6 @@
+name: Manhunt
+version: ${project.version}
+main: net.viazo.manhunt.Manhunt
+api-version: 1.17
+authors: [ Viazo, Enderna ]
+description: A manhunt plugin
